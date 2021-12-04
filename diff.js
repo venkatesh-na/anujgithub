@@ -1,4 +1,4 @@
-function dif(a)
+function diff(a)
 {
     return function(b)
     {
