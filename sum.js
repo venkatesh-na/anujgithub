@@ -2,7 +2,7 @@ function sum(a)
 {
     return function(b)
     {
-        return a + b
+        return `sum is ${a + b}`
     }
 }
 sum(5)(6)
